@@ -1,0 +1,132 @@
+[
+    {
+        "name": "How to Win the War on Truth",
+        "author": "Spitale, Samuel C.",
+        "description": "Made to Stick by Chip and Dan Heath meets Thing Explainer by Randall Munroe in this illustrated guide to navigating today’s post-truth landscape, filled with examples of modern-day propaganda campaigns.",
+        "price": 24.99,
+        "genre":"Nonfiction", 
+        "pages": 304,
+        "image": "images/truth.jpg"
+      },
+
+      {
+        "name": "Lavender House: A Novel",
+        "author": "Rosen, Lev AC",
+        "description": "A delicious story from a new voice in suspense, Lev AC Rosen's Lavender House is Knives Out with a queer historical twist.",
+        "price": 26.99,
+        "genre":"Fiction", 
+        "pages": 288,
+        "image": "images/lavender.jpg"
+      },  
+
+
+      {
+        "name": "We Spread",
+        "author": "Reid, Iain",
+        "description": "The author of the “evocative, spine-tingling, and razor-sharp” (Bustle) I’m Thinking of Ending Things that inspired the Netflix original movie and the “short, shocking” (The Guardian) Foe returns with a new work of suspense following an elderly woman trapped in a mysterious facility.",
+        "price": 26.99,
+        "genre":"Fiction", 
+        "pages": 304,
+        "image": "images/spread.jpg"
+      }, 
+
+      {
+        "name": "Dinners with Ruth: A Memoir",
+        "author": "Totenberg, Nina",
+        "description": "Celebrated NPR correspondent Nina Totenberg delivers an extraordinary memoir of her personal successes, struggles, and life-affirming relationships, including her beautiful friendship of nearly fifty years with Supreme Court Justice Ruth Bader Ginsburg.",
+        "price": 27.99,
+        "genre":"Nonfiction", 
+        "pages": 320,
+        "image": "images/ruth.png"
+      }, 
+
+      {
+        "name": "Fairy Tale",
+        "author": "King, Stephen",
+        "description": "Legendary storyteller Stephen King goes into the deepest well of his imagination in this spellbinding novel about a seventeen-year-old boy who inherits the keys to a parallel world where good and evil are at war, and the stakes could not be higher—for that world or ours.",
+        "price": 32.50,
+        "genre":"Fiction", 
+        "pages": 608,
+        "image": "images/fairy.jpg"
+      }, 
+
+      {
+        "name": "Babel",
+        "author": "Kuang, R.F.",
+        "description": "From award-winning author R. F. Kuang comes Babel, a thematic response to The Secret History and a tonal retort to Jonathan Strange & Mr. Norrell that grapples with student revolutions, colonial resistance, and the use of language and translation as the dominating tool of the British empire.",
+        "price": 27.99,
+        "genre":"Fiction", 
+        "pages": 560,
+        "image": "images/babel.jpg"
+      }, 
+
+      {
+        "name": "I'm Glad My Mom Died",
+        "author": "McCurdy, Jennette",
+        "description": "A heartbreaking and hilarious memoir by iCarly and Sam & Cat star Jennette McCurdy about her struggles as a former child actor—including eating disorders, addiction, and a complicated relationship with her overbearing mother—and how she retook control of her life.",
+        "price": 27.99,
+        "genre":"Nonfiction", 
+        "pages": 320,
+        "image": "images/mom.jpg"
+      },
+
+      {
+        "name": "Tomorrow, and Tomorrow, and Tomorrow: A Novel",
+        "author": "Zevin, Gabrielle",
+        "description": "In this exhilarating novel by the best-selling author of The Storied Life of A. J. Fikry two friends—often in love, but never lovers—come together as creative partners in the world of video game design, where success brings them fame, joy, tragedy, duplicity, and, ultimately, a kind of immortality. ",
+        "price": 28.00,
+        "genre":"Fiction", 
+        "pages": 416,
+        "image": "images/tomorrow.jpg"
+      },
+
+      {
+        "name": "Unlikely Animals",
+        "author": "Hartnett, Annie",
+        "description": "A lost young woman returns to small-town New Hampshire under the strangest of circumstances in this one-of-a-kind novel of life, death, and whatever comes after from the acclaimed author of Rabbit Cake.",
+        "price": 28.00,
+        "genre":"Fiction", 
+        "pages": 368,
+        "image": "images/animals.jpg"
+      },
+
+      {
+        "name": "Allow Me to Retort: A Black Guy's Guide to the Constitution",
+        "author": "Mystal, Elie",
+        "description": "A lost young woman returns to small-town New Hampshire under the strangest of circumstances in this one-of-a-kind novel of life, death, and whatever comes after from the acclaimed author of Rabbit Cake.",
+        "price": 26.99,
+        "genre":"Nonfiction", 
+        "pages": 240,
+        "image": "images/retort.jpg"
+      },
+
+      {
+        "name": "Ironhead, or Once a Young Lady",
+        "author": "van Rijckeghem, Jean-Claude",
+        "description": "Eighteen-year-old Constance is not interested in marriage or in being a 'young lady.' But for a young woman coming of age in the early 1800s, that's just about all that's available to her. When her parents arrange her a marriage with a man more than twice her age, she's powerless to resist. Stance couldn't possibly find her newfound husband less appealing, but what can she do?",
+        "price": 18.99,
+        "genre":"Fiction", 
+        "pages": 368,
+        "image": "images/ironhead.jpg"
+      },
+
+      {
+        "name": "The Nineties: A Book",
+        "author": "Klosterman, Chuck",
+        "description": "From the bestselling author of But What if We’re Wrong, a wise and funny reckoning with the decade that gave us slacker/grunge irony about the sin of trying too hard, during the greatest shift in human consciousness of any decade in American history.",
+        "price": 28.00,
+        "genre":"Nonfiction", 
+        "pages": 384,
+        "image": "images/nineties.jpg"
+      },
+
+      {
+        "name": "Worn: A People's History of Clothing",
+        "author": "Thanhauser, Sofi",
+        "description": "A sweeping and captivatingly told history of clothing and the stuff it is made of—an unparalleled deep-dive into how everyday garments have transformed our lives, our societies, and our planet.",
+        "price": 30.00,
+        "genre":"Nonfiction", 
+        "pages": 400,
+        "image": "images/worn.jpg"
+      }
+]
