@@ -38,8 +38,7 @@ function App() {
   // );
 
   
-
-  // https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/
+  // Adapted from https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/
   const handleOnChange = (position) => {
     const updatedCheckedState = checkedState.map((item, index) =>
       index === position ? !item : item
@@ -66,11 +65,12 @@ function App() {
   };
 
 
-
+//This code block was adapted from the filter function in happyseal123's code, an absolute icon
+  
 const [filters, setFilters] = useState(["all", "all"]);
 
   const matchesFilterType = item => {
-//come back to this
+
     if (filters[0] == "all" && filters[1] == "all") {
       return true;
     } else if (filters[1] == "all" && item.genre == filters[0]) {
@@ -85,8 +85,7 @@ const [filters, setFilters] = useState(["all", "all"]);
   }
   const [bookDataState, setBookDataState] = useState(bookData);
 
-  const [sortColor, setSortColor] = useState("black");
-
+ 
   return (
     <div className="App">
       <h1>Books on the Square 2022 Favorites </h1> 
@@ -122,9 +121,9 @@ const [filters, setFilters] = useState(["all", "all"]);
     <div id="body">
 
     
-<div id="faves">
+<div=>
   <div>
-    <h2>Favorites:</h2>
+    <h2>Favorite Books of 2022:</h2>
   </div>
 
   <div id="favorites-grid">
@@ -135,11 +134,13 @@ const [filters, setFilters] = useState(["all", "all"]);
 
 </div>
 
-<div >
-<Favorites
-favoriteBooks={saved}
-totalPrices={totalPrice}
-/>
+//Couldn't get this code to work
+// <div >
+// <Favorites
+// favoriteBooks={saved}
+// totalPrices={totalPrice}
+// />
+
 
 <h2>Cart</h2>
   {cart} {cost}
